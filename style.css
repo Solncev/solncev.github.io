@@ -506,8 +506,7 @@
     z-index: 56;
 }
 .Sponsor_1 {
-    background-image: url("img/Sponsor Here-1.png");
-    opacity: 0.251;
+  
     position: absolute;
     left: 0px;
     top: 4px;
@@ -516,8 +515,7 @@
     z-index: 55;
 }
 .Sponsor_2{
-    background-image: url("img/Sponsor Here-2.png");
-    opacity: 0.251;
+
     position: absolute;
     left: 227px;
     top: 8px;
@@ -526,8 +524,7 @@
     z-index: 54;
 }
 .Sponsor_3 {
-    background-image: url("img/Sponsor Here-3.png");
-    opacity: 0.251;
+
     position: absolute;
     left: 470px;
     top: 6px;
@@ -536,8 +533,7 @@
     z-index: 53;
 }
 .Sponsor_4 {
-    background-image: url("img/Sponsor Here-4.png");
-    opacity: 0.251;
+
     position: absolute;
     left: 722px;
     top: 6px;
@@ -546,8 +542,7 @@
     z-index: 52;
 }
 .Sponsor_5 {
-    background-image: url("img/Sponsor Here.png");
-    opacity: 0.251;
+
     position: absolute;
     left: 949px;
     top: 0px;
